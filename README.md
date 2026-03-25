@@ -1,5 +1,5 @@
 # The-Last-Of-Us
-*The Last of Us - Sistem de Inventário*
+*The Last of Us - Sistema de Inventário*
 
 Contexto: Em um jogo pós-apocalíptico, o jogador precisa gerenciar recursos escassos. Você vai criar o sistema de itens e mochila.
 
