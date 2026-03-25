@@ -1,9 +1,9 @@
 # The-Last-Of-Us
-The Last of Us - Sistem de Inventário
+*The Last of Us - Sistem de Inventário*
 
 Contexto: Em um jogo pós-apocalíptico, o jogador precisa gerenciar recursos escassos. Você vai criar o sistema de itens e mochila.
 
-Objetivo:Criar uma classe Item encapsulada e uma classe Mochila que gerencie esses itens com validação.
+Objetivo: **Criar uma classe Item encapsulada e uma classe Mochila que gerencie esses itens com validação.**
 
 Especificações:
 Classe Item:
