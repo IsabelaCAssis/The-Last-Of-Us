@@ -1,0 +1,15 @@
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.AssemblyInfoInputs.cache
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.AssemblyInfo.cs
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.sourcelink.json
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\bin\Debug\net10.0\The-Last-Of-Us.exe
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\bin\Debug\net10.0\The-Last-Of-Us.deps.json
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\bin\Debug\net10.0\The-Last-Of-Us.runtimeconfig.json
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\bin\Debug\net10.0\The-Last-Of-Us.dll
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\bin\Debug\net10.0\The-Last-Of-Us.pdb
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.dll
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\refint\The-Last-Of-Us.dll
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.pdb
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\The-Last-Of-Us.genruntimeconfig.cache
+C:\Users\Isabela\Documents\GitHub\The-Last-Of-Us\obj\Debug\net10.0\ref\The-Last-Of-Us.dll

@@ -1,6 +1,6 @@
 public class Item
 {
-    private string _nome;
+    private string _nome = string.Empty;
     private int _quantidade;
     private int _pesoUnitario;
 
@@ -16,8 +16,8 @@ public class Item
     public int Quantidade
     {
         get => _quantidade;
-        set{
-            if (value < 0) _quantidade;
+        set {
+            if (value < 0) _quantidade = 0;
             else _quantidade = value;
         }
     }           
